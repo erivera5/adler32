@@ -1,1 +1,1 @@
-# adler32
+# Adler-32
